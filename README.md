@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Emitrisia
-- 👀 I’m interested in Coding and gaming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Richard 
+- 👀 I’m interested in Coding and gaming and learning 
+- 🌱 I’m currently learning Python(Django) and JavaScript 
+- 💞️ I’m looking to collaborate on a web design project
 - 📫 How to reach me @emitrisia popular websites
-- 😄 Pronouns: they/them
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
